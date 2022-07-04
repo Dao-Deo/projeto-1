@@ -1,2 +1,3 @@
-count_m = 'mercado pago'
-console.log
+const m = 'mercado pago'
+const d = 'devedor'
+console.log (m, d)
